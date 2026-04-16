@@ -74,13 +74,13 @@ O circuito foi desenvolvido e simulado utilizando a plataforma Wokwi, permitindo
 O código principal foi desenvolvido em C/C++ utilizando a plataforma ESP32.
 
 Arquivo:
-- `sketch.ino`
+- `espaço para arquivo`
 
 ---
 
 ## 🎥 Demonstração em Vídeo
 
-🔗 (INSIRA AQUI O LINK DO VÍDEO NO YOUTUBE)
+🔗 (INK DO VÍDEO NO YOUTUBE)
 
 O vídeo demonstra:
 
@@ -99,4 +99,8 @@ O projeto demonstra como a integração entre IoT e sensores pode contribuir par
 
 ## 👨‍💻 Integrantes
 
-(INSIRA OS NOMES DO GRUPO)
+Ana Beatriz Grião Mariano - RM570058
+Murilo Puglia Nunes - RM568778
+Igor Zeviani Nogueira - RM572822
+Miryam Marcele Defanti Araújo - RM573988
+Danilo Lopes Almeida - RM573041
