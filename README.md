@@ -43,7 +43,7 @@ Os sensores NPK atuam como suporte à decisão, indicando a presença de nutrien
 - ESP32  
 - Sensor DHT22  
 - Sensor LDR  
-- 3 Switches (NPK)  
+- 3 Botões (NPK)  
 - Módulo Relé  
 - Protoboard e Jumpers  
 
