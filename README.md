@@ -64,8 +64,7 @@ Para rodar este projeto, é necessário:
 ## 🖼️ Circuito no Wokwi
 
 O circuito foi desenvolvido e simulado utilizando a plataforma Wokwi, permitindo a integração de sensores e testes em tempo real sem necessidade de hardware físico.
-
-(INSIRA AQUI PRINT DO CIRCUITO)
+<img width="685" height="842" alt="WhatsApp Image 2026-04-16 at 23 22 06" src="https://github.com/user-attachments/assets/d4f0dce9-9479-41dc-bfee-0acab06fb538" />
 
 ---
 
@@ -74,7 +73,7 @@ O circuito foi desenvolvido e simulado utilizando a plataforma Wokwi, permitindo
 O código principal foi desenvolvido em C/C++ utilizando a plataforma ESP32.
 
 Arquivo:
-- `espaço para arquivo`
+- `sketch.ino`
 
 ---
 
