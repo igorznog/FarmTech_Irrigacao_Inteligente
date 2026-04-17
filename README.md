@@ -73,13 +73,13 @@ O circuito foi desenvolvido e simulado utilizando a plataforma Wokwi, permitindo
 O código principal foi desenvolvido em C/C++ utilizando a plataforma ESP32.
 
 Arquivo:
-- `sketch.ino`
+[sketch.ino](./sketch.ino)
 
 ---
 
 ## 🎥 Demonstração em Vídeo
 
-🔗 (INK DO VÍDEO NO YOUTUBE)
+🔗 https://youtu.be/3FV_VtOEDys?si=XZHNI0R24MtYQNGi
 
 O vídeo demonstra:
 
